@@ -23,7 +23,7 @@ this project:
 * [Arithmetic Operators in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
 * [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
-This project was also created to go along with [A Practical Introduction to JavaScript](https://www.gitbook.com/book/shawnr/practical-introduction-to-javascript/details)
+This project was also created to go along with [A Practical Introduction to JavaScript](https://suwebdev.github.io/WATS-3020-gitbook/)
 which can be accessed for free.
 
 ## Basic Requirements
