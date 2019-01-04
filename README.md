@@ -36,7 +36,7 @@ requirements:
 * Use at least two different arithmetic operators to generate the section numbers.
 * Update all of the comments in `js/main.js` so that they make sense to a developer coming to your code for the first time.
 * Push your source code to your `master` branch.
-* Deploy your site by creating a `gh-pages` branch and pushing your code to that branch, too.
+* Deploy your site to master branch.
 
 ## Stretch Goals
 
